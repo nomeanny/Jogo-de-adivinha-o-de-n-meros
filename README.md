@@ -1,4 +1,4 @@
-# Jogo-de-adivinhacao-de-numeros
+# Jogo de adivinhação de numeros
 O programa gera um número aleatório entre 1 e 10 e armazena em n.
 O usuário é solicitado a escolher um número entre 1 e 10 e armazena em x.
 O programa verifica se x é igual a n. Se sim, o usuário acertou e o jogo termina.
